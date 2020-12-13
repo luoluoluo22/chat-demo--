@@ -1,5 +1,7 @@
 #  一个对话框的html_DEMO
 
+[![rZvXZR.png](https://s3.ax1x.com/2020/12/13/rZvXZR.png)](https://imgchr.com/i/rZvXZR)
+
 [![聊天演示.gif](https://s3.ax1x.com/2020/12/13/rZjv8S.md.gif)](https://imgchr.com/i/rZjv8S)
 
 在网上找了很久的仿微信聊天页面，最终结合了自己需求做了一个demo，页面采用新拟物化风格美化.
